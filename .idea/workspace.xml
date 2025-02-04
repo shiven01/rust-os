@@ -8,16 +8,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4154d530-3916-40aa-aba9-0d6be454d754" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/x86_64-rust-os.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../adder" beforeDir="false" afterPath="$PROJECT_DIR$/../adder" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../minigrep" beforeDir="false" afterPath="$PROJECT_DIR$/../minigrep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rust-macro-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-macro-practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rust-object-oriented-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-object-oriented-practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/rust-os-1ecb8c4f30b3d6c9/output-bin-rust-os" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/rust-os-1ecb8c4f30b3d6c9/output-bin-rust-os" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-39p1mn0swes1n/s-h450udmg17-1sevxhx-working/dep-graph.part.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-39p1mn0swes1n/s-h450udmg17-1sevxhx.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/rust-os-ce310c25a99acb11/output-bin-rust-os" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/6486hilwqw4btbd5ibhei9yxm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../rust-state-pattern-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-state-pattern-practice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +30,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -52,24 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/shivenshekar/RustroverProjects/rust-os&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/shivenshekar/RustroverProjects/rust-os",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Cargo.Run rust-os">
     <configuration name="Run rust-os" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="buildProfileId" value="dev" />
@@ -120,6 +123,7 @@
       <updated>1738196932957</updated>
       <workItem from="1738196934037" duration="935000" />
       <workItem from="1738198233412" duration="54000" />
+      <workItem from="1738526049000" duration="7312000" />
     </task>
     <servers />
   </component>
