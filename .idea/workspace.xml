@@ -8,25 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4154d530-3916-40aa-aba9-0d6be454d754" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/x86_64-rust-os.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adder" beforeDir="false" afterPath="$PROJECT_DIR$/../adder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minigrep" beforeDir="false" afterPath="$PROJECT_DIR$/../minigrep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust-macro-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-macro-practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust-object-oriented-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-object-oriented-practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/rust-os-ce310c25a99acb11/output-bin-rust-os" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/6486hilwqw4btbd5ibhei9yxm.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v-e17xz0qone7pfj5axe1sjh76d/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/incremental/rust_os-2etvvh5u358xt/s-h451ipi1f0-1yfvk3v.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust-state-pattern-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../rust-state-pattern-practice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
   <component name="Git.Settings">
@@ -51,6 +43,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2sKGcd2ORbzOsehWlUICvYsJozN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +63,7 @@
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -131,6 +125,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="First commit" />
     <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
